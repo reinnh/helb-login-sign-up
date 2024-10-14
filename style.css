@@ -333,3 +333,11 @@ img:hover,
 select{
     cursor: pointer;
 }
+Here's a short media query for a smartphone:
+
+@media (max-width: 480px) {
+    .main-header {
+      display:none;
+    }
+}
+
