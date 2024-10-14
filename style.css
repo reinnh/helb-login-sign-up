@@ -335,7 +335,7 @@ select{
 }
 Here's a short media query for a smartphone:
 
-@media (max-width: 480px) {
+@media (max-width: 680px) {
     .main-header {
       display:none;
     }
